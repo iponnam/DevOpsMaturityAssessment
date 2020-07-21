@@ -91,7 +91,7 @@
 		  
 			<section class="jumbotron text-center border border-primary bg-dark mt-2">
 				<div class="container">
-					<h1 class="jumbotron-heading">Meet The Team</h1>
+					<h1 class="jumbotron-heading">Meet Our Team</h1>
 				</div>
 			</section>
 		  
