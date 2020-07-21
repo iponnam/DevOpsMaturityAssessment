@@ -44,12 +44,11 @@
 					<p class="lead">This online DevOps Maturity Assessment questionnaire will help you understand your current strengths and weaknesses and then recommend resources that can support you in taking the next steps on your DevOps journey.</p>
 					<p>
 						<a href="<?='section-' . SectionNameToURLName($survey->sections[0]['SectionName'])?>" class="btn btn-primary">Start the Questionnaire</a>
-						<a href="www.ap.logicalis.com" target="_blank" class="btn btn-secondary">Fork us on GitHub</a>
 					</p>
 				</div>
 			</section>
 		
-			<!-- Three columns of text below the jumbotron -->
+			<!-- Three columns of text below the jumbotron  s -->
 			<div class="row">
 			
 				<div class="col-lg-4">
