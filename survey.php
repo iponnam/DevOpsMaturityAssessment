@@ -1,10 +1,5 @@
 <?php
 
-/* Copyright 2018 Atos SE and Worldline
- * Licensed under MIT (https://github.com/atosorigin/DevOpsMaturityAssessment/blob/master/LICENSE)
- 
- */
-
 session_name('devopsassessment');
 session_start();
 

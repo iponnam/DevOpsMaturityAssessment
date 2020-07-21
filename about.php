@@ -77,8 +77,8 @@
 						<i class="fas fa-circle fa-stack-2x text-primary"></i>
 						<i class="fas fa-lock-open fa-stack-1x"></i>
 					</span>
-					<h2>Free and Open Source</h2>
-					<p class="text-justify">This tool is made available under the MIT License: you are free to use, adapt and redistribute it, both for commercial and non-commercial use. There is no obligation to share your changes, although we always appreciate feedback! email us @ info@ap.logicalis.com </p>
+					<h2>Please provide your feedback</h2>
+					<p class="text-justify">we always appreciate feedback! email us @ info@ap.logicalis.com </p>
 		
 				</div><!-- /.col-lg-4 -->
 				

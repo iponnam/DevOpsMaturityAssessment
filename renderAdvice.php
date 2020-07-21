@@ -1,8 +1,5 @@
 <?php 
-	
-	/* Copyright 2019 Atos SE and Worldline
-	 * Licensed under MIT (https://github.com/atosorigin/DevOpsMaturityAssessment/blob/master/LICENSE) */
-	
+
 	// Load the "next steps" advice from json file
 	$json = file_get_contents("advice.json");
 	$advice = json_decode($json, true);
