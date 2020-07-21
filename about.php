@@ -44,7 +44,7 @@
 					<p class="lead">This online DevOps Maturity Assessment questionnaire will help you understand your current strengths and weaknesses and then recommend resources that can support you in taking the next steps on your DevOps journey.</p>
 					<p>
 						<a href="<?='section-' . SectionNameToURLName($survey->sections[0]['SectionName'])?>" class="btn btn-primary">Start the Questionnaire</a>
-						<a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank" class="btn btn-secondary">Fork us on GitHub</a>
+						<a href="www.ap.logicalis.com" target="_blank" class="btn btn-secondary">Fork us on GitHub</a>
 					</p>
 				</div>
 			</section>
@@ -68,7 +68,7 @@
 						<i class="fas fa-shoe-prints fa-stack-1x"></i>
 					</span>
 					<h2>Identify Your Next Steps</h2>
-					<p class="text-justify">For each area we have identified a range of free or commercially available books, videos, blog posts, white papers and websites that will help you take the next steps on your DevOps journey.</p>
+					<p class="text-justify">Please reach out to Logicalis DevOps Team at info@ap.logicalis.com to help you take the next steps on your DevOps journey.</p>
 				</div><!-- /.col-lg-4 -->
 		  
 
@@ -78,7 +78,7 @@
 						<i class="fas fa-lock-open fa-stack-1x"></i>
 					</span>
 					<h2>Free and Open Source</h2>
-					<p class="text-justify">This tool is made available under the MIT License: you are free to use, adapt and redistribute it, both for commercial and non-commercial use. There is no obligation to share your changes, although we always appreciate feedback! Why not <a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank">fork us on GitHub</a>?</p>
+					<p class="text-justify">This tool is made available under the MIT License: you are free to use, adapt and redistribute it, both for commercial and non-commercial use. There is no obligation to share your changes, although we always appreciate feedback! email us @ info@ap.logicalis.com </p>
 		
 				</div><!-- /.col-lg-4 -->
 				
@@ -93,7 +93,7 @@
 			<section class="jumbotron text-center border border-primary bg-dark mt-2">
 				<div class="container">
 					<h1 class="jumbotron-heading">Meet The Team</h1>
-					<p class="lead">This tool was created by members of the Atos Expert Community with contributions from many other practitioners across Atos and Worldline globally. You can find out more about the core team below.	</p>
+					<p class="lead">Meet Our Team.	</p>
 				</div>
 			</section>
 		  
@@ -105,45 +105,43 @@
 					
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/CBH.jpg" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/LTP.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							<div class="card-body pb-0 pt-0">
-								<h6>Chris Baynham-Hughes</h6>	
-								<p class="small">Head of UK Business Development RedHat Emerging Technologies & DevOps at Atos</p>
+								<h6>Tsu Pheng Lim</h6>	
+								<p class="small">Chief Technologi Office of Logicalis Asia</p>
 							</div>
 							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/chrisbh/')?>
-								<?=RenderTwitterLink('https://twitter.com/OnlyChrisBH')?>	
+								<?=RenderLinkedInLink('https://www.linkedin.com/in/tsu-pheng-lim-60970a6/')?>
 							</div>
 						</div>
 
 	
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/JC.jpg" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/RL.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							
 							<div class="card-body  pb-0 pt-0">
-								<h6>John Chatterton</h6>
-								<p class="small">Principal Enterprise Architect</p>
+								<h6>Roger Loh</h6>
+								<p class="small">Head Of Solution at Logicalis Asia</p>
 							</div>
 							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/john-chatterton-73940a9/')?>
+								<?=RenderLinkedInLink('https://www.linkedin.com/in/roger-loh-702bb5b0')?>
 							</div>
 						</div>
 
 		
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/DD.jpg" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/PP.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							<div class="card-body  pb-0 pt-0">
-								<h6>David Daly</h6>								
-								<p class="small">Global Deal Assurance Manager at Worldline</p>
+								<h6>Pavan Surya Prakash Ponnam</h6>								
+								<p class="small">DevOps and Cloud Consultant</p>
 							</div>
 							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/david-daly-fbcs-citp-7a84775/')?>
-								<?=RenderTwitterLink('https://twitter.com/DavidDalyWL')?>
+								<?=RenderLinkedInLink('https://www.linkedin.com/in/pspponnam')?>
 							</div>
 						</div>
 					
@@ -161,34 +159,18 @@
 					
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/PT.jpg" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/JF.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							<div class="card-body pb-0 pt-0">
-								<h6>Panagiotis Tamtamis</h6>	
-								<p class="small">Senior Software Engineer at Atos</p>
+								<h6>John Foo</h6>	
+								<p class="small">Cloud Sales Specialist </p>
 							</div>
 							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/panagiotis-tamtamis-2441a419/')?>
-								<?=RenderTwitterLink('https://twitter.com/PTamis')?>	
+								<?=RenderLinkedInLink('https://www.linkedin.com/in/john-foo-7b4a1133')?>
 							</div>
 						</div>
 
 	
-						<div class="card bg-transparent text-center">
-							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/DU.jpg" alt="Generic placeholder image" width="140" height="140">
-							</div>
-							
-							<div class="card-body  pb-0 pt-0">
-								<h6>Dan Usher</h6>
-								<p class="small">Head of Transformation, Digital Self Service at Worldline UK&I</p>
-							</div>
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/daniel-usher-49198310/')?>
-								<?=RenderTwitterLink('https://twitter.com/UsherDL')?>
-							</div>
-						</div>
-					
 
 					</div>
 					
