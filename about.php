@@ -92,7 +92,6 @@
 			<section class="jumbotron text-center border border-primary bg-dark mt-2">
 				<div class="container">
 					<h1 class="jumbotron-heading">Meet The Team</h1>
-					<p class="lead">Meet Our Team.	</p>
 				</div>
 			</section>
 		  
@@ -108,7 +107,7 @@
 							</div>
 							<div class="card-body pb-0 pt-0">
 								<h6>Tsu Pheng Lim</h6>	
-								<p class="small">Chief Technologi Office of Logicalis Asia</p>
+								<p class="small">Chief Technology Officer of Logicalis Asia</p>
 							</div>
 							<div class="card-footer text-center pt-0">
 								<?=RenderLinkedInLink('https://www.linkedin.com/in/tsu-pheng-lim-60970a6/')?>
