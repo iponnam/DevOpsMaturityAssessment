@@ -153,7 +153,7 @@
 		<meta property="og:title" content="DevOps Maturity Assessment" />
 		<meta property="og:description" content="This online DevOps Maturity Assessment questionnaire will help you understand your current strengths and weaknesses and then recommend resources that can support you in taking the next steps on your DevOps journey." />
 		<meta property="og:site_name" content="DevOps Maturity Assessment" />
-		<meta property="og:image" content="<?=GetBaseURL()?>/og-image.jpg" />
+		<meta property="og:image" content="<?=GetBaseURL()?>/Logicalis.jpg" />
 		<meta property="og:image:width" content="1680" />
 		<meta property="og:image:height" content="870" />
 		
@@ -175,7 +175,7 @@
 		<script src="js/jquery-3.3.1.min.js"></script>		
 		<style>
 			#bigwrapper {
-				background-image: Url('backdrop.jpg');
+				background-image: Url('Logicalis.jpg');
 				background-repeat: no-repeat;
 				background-position: top center;
 				background-attachment: fixed;
